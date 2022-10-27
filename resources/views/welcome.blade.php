@@ -122,7 +122,7 @@
         <div class="flex-1 flex flex-row overflow-y-auto">
 
             {{-- sidebar --}}
-            <nav class="order-first md:w-1/5 w-0 p-2 overflow-x-hidden border-r bg-white invisible lg:visible">
+            <nav class="order-first md:w-1/5 w-0 p-2 overflow-x-hidden border-r bg-white hidden md:block">
             
                 <aside class="w-full" aria-label="Sidebar">
                     <div class="py-4 px-3 rounded">
